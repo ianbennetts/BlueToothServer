@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlueToothServer", "BlueToothServer\BlueToothServer.csproj", "{57FBE239-5DCD-4D80-B774-101DB4A254C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TTService", "TTService\TTService.csproj", "{62678247-C464-41B9-B308-A01079D146C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57FBE239-5DCD-4D80-B774-101DB4A254C8}.Debug|x86.ActiveCfg = Debug|x86
+		{57FBE239-5DCD-4D80-B774-101DB4A254C8}.Debug|x86.Build.0 = Debug|x86
+		{57FBE239-5DCD-4D80-B774-101DB4A254C8}.Release|x86.ActiveCfg = Release|x86
+		{57FBE239-5DCD-4D80-B774-101DB4A254C8}.Release|x86.Build.0 = Release|x86
+		{62678247-C464-41B9-B308-A01079D146C0}.Debug|x86.ActiveCfg = Debug|x86
+		{62678247-C464-41B9-B308-A01079D146C0}.Debug|x86.Build.0 = Debug|x86
+		{62678247-C464-41B9-B308-A01079D146C0}.Release|x86.ActiveCfg = Release|x86
+		{62678247-C464-41B9-B308-A01079D146C0}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
